@@ -18,9 +18,8 @@
 
 <p align="center">
     <a href="idealyst.fadhilputra.com">
-    <img src="/public/logo.svg">
+    <img src="/public/logo-full.svg">
     </a>
-    <h1 align="center">Idealyst</h1>
 </p>
 
 ---
