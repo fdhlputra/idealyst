@@ -4,7 +4,6 @@
   </a>
 </p>
 
-<h1 align="center">Idealyst</h1>
 <p align="center">
   A modern web-based decision support system using Laravel, Inertia.js, and Vue 3. Built for intelligent prioritization and evaluation powered by the AHP method.
 </p>
@@ -13,6 +12,15 @@
   <a href="https://github.com/yourusername/idealyst/actions"><img src="https://github.com/yourusername/idealyst/workflows/tests/badge.svg" alt="Build Status"></a>
   <a href="https://packagist.org/packages/yourusername/idealyst"><img src="https://img.shields.io/packagist/v/yourusername/idealyst" alt="Latest Stable Version"></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/github/license/yourusername/idealyst" alt="License: MIT"></a>
+</p>
+
+---
+
+<p align="center">
+    <a href="idealyst.fadhilputra.com">
+    <img src="/public/logo.svg">
+    </a>
+    <h1 align="center">Idealyst</h1>
 </p>
 
 ---
