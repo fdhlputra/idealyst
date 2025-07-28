@@ -17,9 +17,7 @@
 ---
 
 <p align="center">
-    <a href="idealyst.fadhilputra.com">
-    <img src="/public/logo-full.svg">
-    </a>
+    <img src="/public/logo-full.svg">    
 </p>
 
 ---
